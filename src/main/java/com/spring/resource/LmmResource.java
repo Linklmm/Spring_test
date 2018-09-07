@@ -8,7 +8,7 @@ import org.springframework.core.io.Resource;
 import java.io.IOException;
 /**
  *
- * spring bean装配之resource
+ * spring bean装配之resource非@resource注解
  *
  * */
 public class LmmResource implements ApplicationContextAware {
